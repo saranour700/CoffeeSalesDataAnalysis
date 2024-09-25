@@ -27,4 +27,4 @@ Conditional Formatting
 Insights & Outcomes
 Top-selling products: Highlighting the coffee varieties that drive the most revenue.
 Sales Trends: Identified seasonal peaks in coffee consumption.
-Customer Preferences: Breakdown of customer preferences by demographics or regions (if applicable).
+Customer Preferences: Breakdown of customer preferences by demographics or regions .
